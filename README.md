@@ -5,7 +5,8 @@
 ### Basic
 ### Challenge
 
-## 📸 2차 미션 스크린샷 (프로젝트 github 주소 👉 https://github.com/Jiae-Lee/react-todo-app)
+## 📸 2차 미션 스크린샷 
+(프로젝트 github 주소 👉 https://github.com/Jiae-Lee/react-todo-app)
 ### Basic
 ![mission2_basic](https://user-images.githubusercontent.com/66302651/157255938-cb8c07a7-2691-4dc8-a810-5be449e9b38e.gif)
 ### Challenge
