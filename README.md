@@ -7,6 +7,7 @@
 ### 2차 미션 스크린샷
 
 #### Basic
-https://user-images.githubusercontent.com/66302651/157255423-9ac807d6-f4c1-4f97-bf13-13f8227553eb.mp4
+![mission2_basic](https://user-images.githubusercontent.com/66302651/157255938-cb8c07a7-2691-4dc8-a810-5be449e9b38e.gif)
+
 #### Challenge
-https://user-images.githubusercontent.com/66302651/157255555-205b1170-c7cc-48ae-a673-657f2023ba47.mp4
+![mission2_challenge](https://user-images.githubusercontent.com/66302651/157256044-77e0d155-a3da-4ca2-9dca-7831503e4bca.gif)
