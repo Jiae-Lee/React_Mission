@@ -3,7 +3,7 @@
 
 ## 📸 1차 미션 스크린샷
 ### Basic & Challenge
-[Basic & Cahllenge pdf 문서](https://github.com/Jiae-Lee/React_Mission/files/8207182/Basic.pdf)
+[Basic & Challenge pdf 문서](https://github.com/Jiae-Lee/React_Mission/files/8207182/Basic.pdf)
 ## 📸 2차 미션 스크린샷 
 (프로젝트 github 주소 👉 https://github.com/Jiae-Lee/react-todo-app)
 ### Basic
